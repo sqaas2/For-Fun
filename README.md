@@ -1,2 +1,2 @@
 # For-Fun
-Learning
+Created for Learning purposes.
